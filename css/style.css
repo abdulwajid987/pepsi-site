@@ -1,0 +1,117 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    /* background-color: black; */
+    overflow: hidden;
+}
+
+header{
+    width: 100%;
+    height: 50px;
+  content: "";
+  clear: both;
+  display: table;
+    background-color:#0065C3;
+    line-height: 50px;
+
+}
+
+ul{}
+li{
+    list-style: none;
+    float: left;
+    margin-left: 142px;
+    margin-top: 10px;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
+
+/* menu left */
+
+#menu-left
+{
+    float: right;
+    margin-right: 78px;
+    border: 3px solid white;
+    color: white;
+    padding: 0 20px 0px 20px;
+    background-color: #0065C3;
+    margin-top: 13px;
+    border-radius: 25px;
+    margin-top: 24px;
+
+}
+
+#logo{
+background-color:#0065C3;
+}
+
+#logo > img{
+
+    width: 90px;
+    float: left;
+
+}
+#vedio{}
+
+#kane-sec{
+
+    width: 100%;
+    height: 500px;
+    background-color: #034D98;
+}
+/* left content */
+.main-can-content{
+    padding-left: 100px;
+
+}
+
+#left-side{
+    
+}
+
+#left-h1-sub{
+    display: block;
+/* color:white; */
+    
+}
+#left-h1{
+    color: white;
+    padding-bottom: 36px;
+
+}
+p{
+    color: white;
+    padding: 10px;
+
+
+}
+
+#right-content{
+content: "";
+display: table;
+clear: both;
+width: 50%;
+float:right;
+}
+
+#img-pesi-can{
+width:200px;
+height:200px;
+float: right;
+}
+
+/* for media quier */
+
+
+
+  
